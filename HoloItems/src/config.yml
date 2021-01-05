@@ -1,0 +1,48 @@
+###########################################################################################
+# This is a YML file. Be careful when editing. Check your edits in a YAML checker like    #
+# the one at http://yaml-online-parser.appspot.com                                        #
+###########################################################################################
+
+HoloItem:
+
+    Enchantments-Message: "&b&lEnchantments"
+    
+    Enchantments:
+       Tools:
+          Efficiency: "&5&lEfficiency"
+          Fortune: "&5&lFortune"
+          Silktouch: "&5&lSilktouch"
+          Unbreaking: "&5&lUnbreaking"
+       Swords:
+          Sharpness: "&5&lSharpness" 
+          Smite: "&5&lSmite"
+          FireAspect: "&5&lFire Aspect"
+          Looting: "&5&lLooting"
+          KnockBack: "&5&lKnockBack"
+          BaneOfArthropods: "&5&lBane Of Arthropods"
+          SweepingEdge: "&5&lSweeping Edge"
+       Armor:
+          Protection:
+             Environmental: "&5&lProtection"  
+             Blast: "&5&lBlast Protection"  
+             Fire: "&5&lFire Protection"  
+             Projectile: "&5&lProjectile lProtection"  
+          Thorns: "&5&lThorns"
+          FeatherFalling: "&5&lFeather Falling"
+          AquaAffinity: "&5&lAqua Affinity"
+          DepthStrider: "&5&lDepth Strider"
+          FrostWalker: "&5&lFrost Walker"
+          Respiration: "&5&lRespiration"
+       Bow:
+          Power: "&5&lPower"
+          Punch: "&5&lPunch"
+          Flame: "&5&lFlame"
+          Infinity: "&5&lInfinity"
+       FishingRod:
+          Luck: "&5&lLuck"
+          Lure: "&5&lLure"   
+       
+       Extras:
+          Mending: "&cMending"
+          Binding: "&c&lCurse of Binding"
+          Vanishing: "&cCurse of Vanishing"
