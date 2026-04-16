@@ -3,7 +3,7 @@ author: Aco
 version: 1.0-STABLE-1.12
 main: acodev.main
 description: Holograms Showing the enchantments of an item!
-depend: [HolographicDisplays]
+depend: [DecentHolograms]
 commands:
     holoreload:
        description: Reload Configuration File
