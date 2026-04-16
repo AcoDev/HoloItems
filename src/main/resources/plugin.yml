@@ -1,7 +1,7 @@
 name: HoloItems
 author: Aco
 version: 1.0-STABLE-1.12
-main: acodev.main
+main: org.kora.holoitems.main
 description: Holograms Showing the enchantments of an item!
 depend: [DecentHolograms]
 commands:

@@ -1,6 +1,6 @@
-package acodev.enchant;
+package org.kora.holoitems.enchant;
 
-import acodev.main;
+import org.kora.holoitems.main;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Arrays;

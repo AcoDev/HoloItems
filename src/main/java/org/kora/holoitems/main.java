@@ -1,8 +1,8 @@
-package acodev;
+package org.kora.holoitems;
 
-import acodev.enchant.EnchantmentLineBuilder;
-import acodev.hologram.DroppedItemHologramListener;
-import acodev.hologram.TransientHologramManager;
+import org.kora.holoitems.enchant.EnchantmentLineBuilder;
+import org.kora.holoitems.hologram.DroppedItemHologramListener;
+import org.kora.holoitems.hologram.TransientHologramManager;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

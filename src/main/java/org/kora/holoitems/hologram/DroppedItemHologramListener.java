@@ -1,6 +1,6 @@
-package acodev.hologram;
+package org.kora.holoitems.hologram;
 
-import acodev.enchant.EnchantmentLineBuilder;
+import org.kora.holoitems.enchant.EnchantmentLineBuilder;
 import java.util.List;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

@@ -1,4 +1,4 @@
-package acodev.hologram;
+package org.kora.holoitems.hologram;
 
 import eu.decentsoftware.holograms.api.DHAPI;
 import eu.decentsoftware.holograms.api.holograms.Hologram;
