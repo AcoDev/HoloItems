@@ -8,12 +8,13 @@ HoloItem:
     Enchantments-Message: "&b&lEnchantments"
     
     Enchantments:
-       Tools:
+       Utility:
           Efficiency: "&5&lEfficiency"
           Fortune: "&5&lFortune"
-          Silktouch: "&5&lSilktouch"
           Unbreaking: "&5&lUnbreaking"
-       Swords:
+          Silktouch: "&5&lSilk Touch"
+          Mending: "&cMending"
+       Combat:
           Sharpness: "&5&lSharpness" 
           Smite: "&5&lSmite"
           FireAspect: "&5&lFire Aspect"
@@ -26,23 +27,38 @@ HoloItem:
              Environmental: "&5&lProtection"  
              Blast: "&5&lBlast Protection"  
              Fire: "&5&lFire Protection"  
-             Projectile: "&5&lProjectile lProtection"  
+             Projectile: "&5&lProjectile Protection"  
           Thorns: "&5&lThorns"
           FeatherFalling: "&5&lFeather Falling"
           AquaAffinity: "&5&lAqua Affinity"
           DepthStrider: "&5&lDepth Strider"
           FrostWalker: "&5&lFrost Walker"
           Respiration: "&5&lRespiration"
-       Bow:
+          SoulSpeed: "&5&lSoul Speed"
+          SwiftSneak: "&5&lSwift Sneak"
+       Ranged:
           Power: "&5&lPower"
           Punch: "&5&lPunch"
           Flame: "&5&lFlame"
           Infinity: "&5&lInfinity"
+       Trident:
+          Loyalty: "&5&lLoyalty"
+          Impaling: "&5&lImpaling"
+          Riptide: "&5&lRiptide"
+          Channeling: "&5&lChanneling"
+       Crossbow:
+          Multishot: "&5&lMultishot"
+          Piercing: "&5&lPiercing"
+          QuickCharge: "&5&lQuick Charge"
+       Spear:
+          Lunge: "&5&lLunge"
        FishingRod:
           Luck: "&5&lLuck"
-          Lure: "&5&lLure"   
-       
-       Extras:
-          Mending: "&cMending"
+          Lure: "&5&lLure"
+       Mace:
+          Density: "&5&lDensity"
+          Breach: "&5&lBreach"
+          WindBurst: "&5&lWind Burst"
+       Curses:
           Binding: "&c&lCurse of Binding"
           Vanishing: "&cCurse of Vanishing"

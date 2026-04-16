@@ -1,8 +1,8 @@
 name: HoloItems
 author: Aco
-version: 1.0-STABLE-1.12
+version: 2.0-SNAPSHOT
 main: org.kora.holoitems.main
-description: Holograms Showing the enchantments of an item!
+description: Holograms showing the enchantments of an item from 1.8.8 to 1.21.11.
 depend: [DecentHolograms]
 commands:
     holoreload:

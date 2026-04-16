@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
-HoloItems Spigot Plugin (1.8.8-1.12.2)
+HoloItems Spigot Plugin (1.8.8-1.21.11)
 
 
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
